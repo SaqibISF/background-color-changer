@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+/* :root {
+  color-scheme: light ;
+}
+
+button {
+  color: light-dark(#000, #fff);
+} */
